@@ -1,4 +1,5 @@
 # Lab 8 - Starter
+## Edward Chang
 
 1. Within a Github action that runs whenever code is pushed
 2. The tests would run without creating a browser window
